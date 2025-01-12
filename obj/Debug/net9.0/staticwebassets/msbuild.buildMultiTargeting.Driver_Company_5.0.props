@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Driver_Company_5.0.props" />
+</Project>

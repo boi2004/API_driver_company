@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\modules\\authentication\\controller\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:modules\\authentication\\controller\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\modules\\authentication\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:modules\\authentication\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\modules\\authentication\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:modules\\authentication\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\modules\\authentication\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:modules\\authentication\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\modules\\authentication\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:modules\\authentication\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\modules\\authentication\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:modules\\authentication\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\modules\\authentication\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:modules\\authentication\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\modules\\authentication\\security\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:modules\\authentication\\security\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\modules\\authentication\\router\\loginroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:modules\\authentication\\router\\loginroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\modules\\authentication\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:modules\\authentication\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\modules\\authentication\\models\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:modules\\authentication\\models\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|d:\\laptrinhmobilenangcao\\doan_canhan\\driver_company_5.0\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0691B562-61B4-405F-9605-450B6D5158FE}|Driver_Company_5.0.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Controller\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Modules\\Authentication\\Controller\\RegisterController.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Controller\\RegisterController.cs",
+              "RelativeToolTip": "Modules\\Authentication\\Controller\\RegisterController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:46:49.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Services\\RegisterService.cs",
+              "RelativeDocumentMoniker": "Modules\\Authentication\\Services\\RegisterService.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Services\\RegisterService.cs",
+              "RelativeToolTip": "Modules\\Authentication\\Services\\RegisterService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwC8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:45:28.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T17:05:48.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T16:43:52.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Modules\\Authentication\\Services\\LoginService.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Services\\LoginService.cs",
+              "RelativeToolTip": "Modules\\Authentication\\Services\\LoginService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:36:03.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Controller\\LoginController.cs",
+              "RelativeDocumentMoniker": "Modules\\Authentication\\Controller\\LoginController.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Controller\\LoginController.cs",
+              "RelativeToolTip": "Modules\\Authentication\\Controller\\LoginController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:27:20.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:21:55.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Security\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Modules\\Authentication\\Security\\JwtHelper.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Security\\JwtHelper.cs",
+              "RelativeToolTip": "Modules\\Authentication\\Security\\JwtHelper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:26:05.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Modules\\Authentication\\Security\\PasswordHasher.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "Modules\\Authentication\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:26:04.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginRoutes.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Router\\LoginRoutes.cs",
+              "RelativeDocumentMoniker": "Modules\\Authentication\\Router\\LoginRoutes.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Router\\LoginRoutes.cs",
+              "RelativeToolTip": "Modules\\Authentication\\Router\\LoginRoutes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:46:17.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:45:01.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Modules\\Authentication\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Modules\\Authentication\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:38:00.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Models\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "Modules\\Authentication\\Models\\ForgotPasswordRequest.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Models\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "Modules\\Authentication\\Models\\ForgotPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:37:31.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:37:07.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Models\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Modules\\Authentication\\Models\\AuthResponse.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Models\\AuthResponse.cs",
+              "RelativeToolTip": "Modules\\Authentication\\Models\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:36:21.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Modules\\Authentication\\Models\\RegisterRequest.cs",
+              "ToolTip": "D:\\LaptrinhMobileNangCao\\DoAn_CaNhan\\Driver_Company_5.0\\Modules\\Authentication\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "Modules\\Authentication\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:35:22.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
